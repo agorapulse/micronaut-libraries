@@ -1,3 +1,0 @@
-== Micronaut Grails
-
-Micronaut Grails package has been moved into link:https://agorapulse.github.io/micronaut-grails[own repository].

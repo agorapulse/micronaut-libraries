@@ -1,4 +1,0 @@
-== Micronaut for API Gateway Proxy
-
-API Gateway Lambda Proxy support for Micronaut has been replaced by an official suport
-https://micronaut-projects.github.io/micronaut-aws/latest/guide/#apiProxy[Micronaut AWS API Gateway Support]
